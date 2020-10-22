@@ -15,7 +15,8 @@
 
 #### Run
 -  ```python api.py```
-- Note the host Ipv4 Address given in the terminal (example- )
+- Note the host Ipv4 Address given in the terminal 
+- (example- http://192.169.30.52:8082/) Here  IP: 192.169.30.52, PORT:8082
 
 #### Input
 - Open the ```Text Recognition``` app installed using the given .apk
