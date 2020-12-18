@@ -30,4 +30,4 @@
 - You will get the output image in the app's image view and text as caption.
 
 
-THANKS
+Regards: Himanshu Khairajani
